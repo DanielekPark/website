@@ -73,6 +73,6 @@ location:
 partner: LA Department of Transportation LADOT (https://ladot.lacity.org/)
 vertical: 'Environment'
 visible: true
-vertical: 'Under Development'
+vertical: 'Environment'
 status: Active
 ---
